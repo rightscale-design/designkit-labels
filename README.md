@@ -1,6 +1,8 @@
 # designkit-labels
 1.0.0
 
+A Sass module for labels used in RightScale apps.
+
 https://github.com/rightscale-design/designkit-labels#readme
 
 ## Install

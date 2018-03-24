@@ -1,7 +1,7 @@
 {
   "name": "designkit-labels",
   "version": "1.0.0",
-  "description": "A Sass module for lables used in RightScale apps.",
+  "description": "A Sass module for labels used in RightScale apps.",
   "homepage": "https://github.com/rightscale-design/designkit-labels#readme",
   "repository": {
     "type": "git",

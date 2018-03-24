@@ -1,6 +1,8 @@
 # <%= module.name %>
 <%= module.version %>
 
+<%= module.description %>
+
 <%= module.homepage %>
 
 ## Install
