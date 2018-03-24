@@ -3,8 +3,6 @@
 
 <%= module.description %>
 
-<%= module.homepage %>
-
 ## Install
 ```
 npm i --save <%= module.name %>

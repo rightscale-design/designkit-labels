@@ -3,8 +3,6 @@
 
 A Sass module for labels used in RightScale apps.
 
-https://github.com/rightscale-design/designkit-labels#readme
-
 ## Install
 ```
 npm i --save designkit-labels
